@@ -1,4 +1,4 @@
-# Building neural networks from scratch using NumPy
+# Neural Networks from scratch using NumPy
 
 ### Why would you want to do this? 
 In June 2022, the vast majority of deep learning in python is done using the TensorFlow (Google) or PyTorch (Facebook) libraries that make producing a neural network (nn) trivial. Although this provides a fantastic framework for making architectures of any complexity it allows you to make a nn without understand any of the processes going on *under the hood*. For this reason, I thought it would be a great idea to learn the mathemtics behhind nn's by writing all the functions from scratch.  
