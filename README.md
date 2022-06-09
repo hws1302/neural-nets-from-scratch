@@ -17,4 +17,6 @@ In June 2022, the vast majority of deep learning in python is done using the Ten
 - Different activation functions
 
 ### Useful resources 
-- Deepmind x UCL Deep Learning Lectures
+- [Deepmind x UCL Deep Learning Lectures (mathematical background)](https://www.youtube.com/watch?v=FBggC-XVF4M&ab_channel=DeepMind)
+- [3Blue1Brown Deep Learning series (visual explanations)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
+- [Vox video explaining vector space for classification](#)
