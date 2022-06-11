@@ -19,7 +19,7 @@ I will first try and do this using the MNIST dataset, the "Hello World" of deep 
 - Different activation functions
 - Visualising the neural net
 - Make into interactive app using StreamLit
-- i
+- Grid search for changing hyperparameters
 
 ### Useful resources 
 - [Deepmind x UCL Deep Learning Lectures (mathematical background)](https://www.youtube.com/watch?v=FBggC-XVF4M&ab_channel=DeepMind)
